@@ -28,8 +28,8 @@
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgg&layout=compact&theme=gotham)
 ![João Victor Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorgg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
 ## Musicas que escuto codando 🎶
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2242kmlmlamxpr4ddz47xua7i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 
