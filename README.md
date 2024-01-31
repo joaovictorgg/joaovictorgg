@@ -34,7 +34,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ## Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgg&layout=compact&theme=gotham)![Visitantes](https://komarev.com/ghpvc/?username=your-github-username&color=1d634a)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgg&layout=compact&theme=gotham)![Visitantes](https://komarev.com/ghpvc/?username=joaovictorgg&color=1d634a)
 ![João Victor Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorgg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
 
 ## Musicas que escuto codando 🎶
