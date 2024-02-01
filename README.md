@@ -2,20 +2,19 @@
 
 ## ***Olá! Eu sou o João Victor*** ✌️ 
 
+### Sou entusiasta por tecnologia e por aprender sobre novas funcionalidades!
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0dGwyYWNndGdlbTZpZ3lybWtubzAzNGZ0d2g3bHRkMmVveWt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+
 <div align='right'>
 
 ![Visitantes](https://komarev.com/ghpvc/?username=joaovictorgg&color=1d634a)
 </div>
 
-### Sou entusiasta por tecnologia e por aprender sobre novas funcionalidades!
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0dGwyYWNndGdlbTZpZ3lybWtubzAzNGZ0d2g3bHRkMmVveWt4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
-
-
-## Redes Sociais 📞
+## Redes Sociais 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovictorgg._/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-0b40821ba/)
 
-## Linguagens ⚡
+## 🔥 Linguagens 🔥
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
